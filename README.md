@@ -1,8 +1,6 @@
 # Python-1
 
-### Basics of learning python
-
-Understanding the basics behind Python
+### Understanding the basics behind Python
 
 - Variables
 - Functions
